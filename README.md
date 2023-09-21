@@ -3,6 +3,7 @@ Conway's Game of Life implemented as an API
 
 `cd API`
 
+
 `dotnet run`
 
 Navigate to [http://localhost:5212/swagger/](http://localhost:5212/swagger/)
